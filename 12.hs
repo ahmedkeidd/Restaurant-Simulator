@@ -39,12 +39,6 @@ shopping_list = [((15,Feb,2026),
                     [SimpleIngredient "salt",
                      SimpleIngredient "pepper",
                      SimpleIngredient "garlic"]) ]
--- Do not submit any code above this line
--- Do not move any data below this line
--- ////////////////////////////////////////////////////////////////////////////////
-
--- Start your code here
-
 --these_are_our_helper_methods
 
 monthToInt :: Month -> Int
