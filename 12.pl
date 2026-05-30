@@ -1,4 +1,3 @@
-:-consult('public_kb.pl').
 check_staff(Day,Time,Reservations):-
 	staff(Day,StaffCount), 
 	res_count(Day,Time,Reservations,NumReservations),
